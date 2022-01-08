@@ -51,7 +51,7 @@ We found that out of the 4733 new customers in 2019, 776 returned (16%)
   - There are customers with 1 transaction that have completed date, updated date, and first booking date the same, but is not labelled as a new customer
   - Although the transactions are ranging from Jan 2019 to Jan 2021, there are customers with first booking date within this time period, but the first booking is not within the    data
 ### To further the analysis, we would want:
-Purpose of travel
+  - 1) Purpose of travel
 Geographical data (origin, destination, routing)
 Booking class (queen size bed, king size bed, how many beds)
 Demographic data if available
